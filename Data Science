@@ -1,0 +1,182 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "8cdeaba7-bf35-4297-9676-82a36bf95042",
+   "metadata": {},
+   "source": [
+    "                        \n",
+    "\n",
+    "Data science Tools \n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f7406586-79d7-49dd-84bb-a97969adbed9",
+   "metadata": {},
+   "source": [
+    "In this notebook, we will learn about different types of data Science tools"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "795641f7-3090-4109-a2d8-a99634e6a2bb",
+   "metadata": {},
+   "source": [
+    "list data science languages.\n",
+    "\n",
+    "Python\n",
+    "    \n",
+    "R\n",
+    "    \n",
+    "SQL\n",
+    "    \n",
+    "Java etc..,"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "72f1b4bd-c3d8-4485-979d-46e2957aac28",
+   "metadata": {},
+   "source": [
+    "list data science libraries.\n",
+    "\n",
+    "Tenserflow\n",
+    "\n",
+    "Numpy\n",
+    "\n",
+    "Scipy\n",
+    "\n",
+    "Pandas\n",
+    "\n",
+    "Matplotlib\n",
+    "\n",
+    "Keras\n",
+    "\n",
+    "Scikit-learn etc..,"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3e8d3daf-755c-4543-b970-14ada7559c1d",
+   "metadata": {},
+   "source": [
+    "|Table of Data Science tools|\n",
+    "|---|\n",
+    "|SAS|\n",
+    "|Apache Hadoop|\n",
+    "|Tensorflow\n",
+    "    \n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "87dad4cd-52ee-4cab-bace-5025ae3a67e4",
+   "metadata": {},
+   "source": [
+    "Arithmetic expression examples\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "0215d5f1-661c-429a-9573-b0d1a71e6e8f",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "(77, 18)"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "s = 7\n",
+    "v = 11\n",
+    "Multiply = s * v\n",
+    "Addition = s + v\n",
+    "Multiply , Addition\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "f64d9f81-1097-4f09-902f-3005b5868d3b",
+   "metadata": {
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2.0"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "min = 120\n",
+    "h = min / 60\n",
+    "h"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "67fdd92b-ba81-43e6-a3e9-ef7d95e95db8",
+   "metadata": {},
+   "source": [
+    "__Objectives__\n",
+    "\n",
+    "Working on Jupyter notebook\n",
+    "\n",
+    "Working with github\n",
+    "\n",
+    "Practical implementation"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ca093a9e-9f50-476c-a160-40720cee3efe",
+   "metadata": {
+    "tags": []
+   },
+   "source": [
+    "Author\n",
+    "\n",
+    "Saranya Suryadevara"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
